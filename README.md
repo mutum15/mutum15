@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Evgeny and I'm a Russian, from Russia</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">My name is Evgeny, I live and work in Russia. I'm currently studying AI</p>
+<p align="left">M I live and work in Russia. I'm currently studying AI</p>
 
 ###
 
